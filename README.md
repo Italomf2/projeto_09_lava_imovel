@@ -1,4 +1,4 @@
-[![Assista a apresentação do projeto](https://youtu.be/OxZnKPmyvBs)
+[![Assista a apresentação do projeto](https://img.youtube.com/vi/OxZnKPmyvBs/0.jpg)](https://youtu.be/OxZnKPmyvBs)
 
 
 # Projeto 09 — Operação Lava-Imóvel: Lavagem de Dinheiro Imobiliário
