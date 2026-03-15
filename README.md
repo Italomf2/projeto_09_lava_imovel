@@ -1,3 +1,6 @@
+[![Assista a apresentação do projeto](https://youtu.be/OxZnKPmyvBs)
+
+
 # Projeto 09 — Operação Lava-Imóvel: Lavagem de Dinheiro Imobiliário
 
 > **Disciplina:** Programação para Ciência de Dados
